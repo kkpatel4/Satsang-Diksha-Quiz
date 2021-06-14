@@ -8,7 +8,7 @@ export default function App() {
 				{ answerText: 'New York', isCorrect: false },
 				{ answerText: 'London', isCorrect: false },
 				{ answerText: 'Paris', isCorrect: true },
-				{ answerText: 'Dublin', isCorrect: false },
+				{ answerText: 'Madrid', isCorrect: false },
 			],
 		},
 		{
