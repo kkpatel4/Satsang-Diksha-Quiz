@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Satsang Diksha Rapid Quiz
 
-## Available Scripts
+The goal of the app is to provide a quick way for those trying to memorize the satsang diksha granth to quiz themselves on different shlokas. The questions have some words of the shloka replaced with blanks, and they have to fill those in with the correct words. To ensure that they don't get penalized for minor spelling errors, the quiz is designed to be multiple choice.
+
+Currently the quiz asks 5 randomly selected questions at a time, from a bank of 30. Development will be continued to add the other shlokas and add other features to improve the app.
+
+## Steps to Run the App (Development Mode)
+
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start`
+
+## Other Notes and Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
