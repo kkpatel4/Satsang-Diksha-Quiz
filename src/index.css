@@ -25,6 +25,17 @@ header {
   font-size: 30px;
 }
 
+footer {
+  height: 40px;
+  width: 100%;
+  position: fixed;        
+  padding: 10px 0;
+  color: #fff;
+  bottom: 0;
+  text-align: center;
+  font-size: 30px;
+}
+
 body {
   background-color: #FF8589;
   display: flex;
@@ -113,12 +124,22 @@ button {
   justify-content: center;
 }
 
+.start {
+  background-color: #404040;
+  border-top: solid 10px #1a1a1a;
+  border-bottom: solid 10px #1a1a1a;
+}
+
 .correct {
-  background-color: #2f922f;
+  background-color: #00b300;
+  border-top: solid 10px #006600;
+  border-bottom: solid 10px #006600;
 }
 
 .incorrect {
-  background-color: #ff3333;
+  background-color: #e62e00;
+  border-top: solid 10px #b32400;
+  border-bottom: solid 10px #b32400;
 }
 
 button:hover {
