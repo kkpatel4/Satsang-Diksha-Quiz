@@ -305,7 +305,7 @@ export default function App() {
 		if (isCorrect) {
 			setScore(score + 1);
 			setFooter('correct')
-			setCorrect('You were correct! Score: ' + score)
+			setCorrect('You were correct! Score: ' + (score + 1))
 		} else {
 			setFooter('incorrect')
 			setCorrect('You were incorrect! Score: ' + score)
