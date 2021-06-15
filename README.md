@@ -4,7 +4,13 @@ The goal of the app is to provide a quick way for those trying to memorize the s
 
 Currently the quiz asks 5 randomly selected questions at a time, from a bank of 30. Development will be continued to add the other shlokas and add other features to improve the app.
 
-## Steps to Run the App (Development Mode)
+## Deployed Version of the App
+
+Here is the most up to date version of the app:
+
+https://satsang-diksha-quiz.vercel.app/
+
+## Steps to Run the App in Development Mode
 
 1. Clone this repository
 2. Run `npm install`
